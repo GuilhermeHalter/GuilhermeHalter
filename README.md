@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Guilherme Halter Nunes👋
 
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Chocolatin#8625)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermehalter)
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=52977667-6541-4014-b800-d4e102a5b4eb#/p/psn_profile/list?state=cam_475351135afdfcca7dcef2ac1270cf0&cid=ddfe4b06-3f41-431a-80b3-960ec575b661&entry=psn_profile)
