@@ -44,7 +44,7 @@ Eu sou Guilherme Halter Nunes, um entusiasta da programação apaixonado por tra
 - 🌱 Sempre buscando aprimorar minhas habilidades em C++ e Python.
 
 ### Onde me encontrar:
-- 📧 [guisam.halter@gmail.com]
+- 📧 [halter.guilhermenunes@gmail.com]
 
 ### Projetos destacados:
 - Projeto_ControleTermicoSuinos: conforto térmico é de extrema importância para os suínos na creche, pois eles são sensíveis às variações de temperatura. [https://github.com/GuilhermeHalter/Projeto_ControleTermicoSuinos.git].
