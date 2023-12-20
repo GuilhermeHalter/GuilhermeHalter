@@ -44,7 +44,7 @@ Eu sou Guilherme Halter Nunes, um entusiasta da programação apaixonado por tra
 - 🎓 Graduado em Técnico em informatica para a internet (IFC campus Araquari).
 
 ### O que estou aprendendo agora:
-- 🌱 Sempre buscando aprimorar minhas habilidades em C++ e Python.
+- 🌱 Sempre buscando aprimorar minhas habilidades em C++ , Python e PHP.
 
 ### Onde me encontrar:
 - 📧 [halter.guilhermenunes@gmail.com]
