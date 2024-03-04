@@ -42,6 +42,7 @@ Eu sou Guilherme Halter Nunes, um entusiasta da programação apaixonado por tra
 
 ### Minha jornada até aqui:
 - 🎓 Graduado em Técnico em informatica para a internet (IFC campus Araquari).
+- 🎓 Cursando Engenharia de Software (Centro Universitário - Católica de Santa Catarina).
 
 ### O que estou aprendendo agora:
 - 🌱 Sempre buscando aprimorar minhas habilidades em C++ , Python e PHP.
@@ -52,6 +53,7 @@ Eu sou Guilherme Halter Nunes, um entusiasta da programação apaixonado por tra
 ### Projetos destacados:
 - Projeto_ControleTermicoSuinos: conforto térmico é de extrema importância para os suínos na creche, pois eles são sensíveis às variações de temperatura. [https://github.com/GuilhermeHalter/Projeto_ControleTermicoSuinos.git].
 - BackendInnovar: Backend para uma empreza de estética [https://github.com/GuilhermeHalter/BackendInnovar.git].
+- OldWorldMuseum: Projeto em React + Vite utilizando uma API de museu[https://github.com/GuilhermeHalter/MuseuNovoMundo-react.git].
 
 ### Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuilhermeHalter&show_icons=true&theme=dark)
