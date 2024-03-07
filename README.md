@@ -58,7 +58,7 @@ I'm Guilherme Halter Nunes, a programming enthusiast passionate about transformi
 - OldWorldMuseum: Project in React + Vite using a museum API[https://github.com/GuilhermeHalter/MuseuNovoMundo-react.git].
 
 ### GitHub Stats:
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeHalter&theme=tokyonight)   &nbsp;&nbsp;&nbsp;  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeHalter&theme=tokyonight&exclude=html)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeHalter&theme=tokyonight)   &nbsp;&nbsp;&nbsp;  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeHalter&theme=tokyonight&exclude=html,vue)
 
 
 Feel free to explore my repositories and feel free to get in touch to discuss interesting collaborations and innovative ideas. Let's build the future together! 🚀
