@@ -33,9 +33,6 @@ I'm Guilherme Halter Nunes, a programming enthusiast passionate about transformi
 - 🎓 Graduated in IT Technician for Internet (IFC campus Araquari).
 - 🎓Studying Software Engineering (University Center - Catholic University of Santa Catarina).
 
-### What I'm learning now:
-- 🌱 Always looking to improve my skills in C++, Python and PHP.
-
 ### Where can I find it:
 - 📧 [halter.guilhermenunes@gmail.com]
 
