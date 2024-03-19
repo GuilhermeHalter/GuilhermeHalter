@@ -3,7 +3,7 @@
 I'm Guilherme Halter Nunes, a programming enthusiast passionate about transforming lines of code into innovative solutions. I live in Joinville in the state of Santa Catarina located in Brazil.
 
 ### What do I do:
-- 💻 Full Stack development focusing on Html, Css, JavaScript, Python, C++, Vue.js, React-Native, Node.js, Git.
+- 💻 Full Stack development focusing on Html, Css, JavaScript, Python, C++, PHP, Vue.js, React-Native, React.js, Node.js, Git, Github, Mysql, PostgreSQL.
 - 🚀 Passionate about solving complex problems and creating efficient solutions.
 - 📈 Experience in HTML, CSS, Vue, js, React-native.
 
