@@ -10,23 +10,13 @@ I'm Guilherme Halter Nunes, a programming enthusiast passionate about transformi
 <p align="left">
 <div align="center">
 
-<img src="https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="100px"> 
-<img src="https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="88px"> 
-<img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="107px">
-<img src="https://img.shields.io/badge/-VueJs-1C1C1C?logo=vue.js&logoColor=48E691&style=plastic" width="92px"> 
-<br>
-<img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="130px"> 
-<img src="https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=3776AB" width="103px">
-<img src="https://img.shields.io/badge/-PHP-1C1C1C?style=plastic&logo=php&logoColor=9249FA" width="75px">
-<img src="https://img.shields.io/badge/-C-1C1C1C?style=plastic&logo=C&logoColor=A19F9F" width="54px">
-<img src="https://img.shields.io/badge/-C++-1C1C1C?style=plastic&logo=Cplusplus&logoColor=F967CC" width="82px">    
-<br>
-<img src="https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1" width="95px">
-<img src="https://img.shields.io/badge/-ProstgresSQL-1C1C1C?style=plastic&logo=postgresql&logoColor=4479A1" width="150px">
-<img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="63px">
-<img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="78px"> 
-<img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="103px"> 
-</div>
+
+ **Frontend**  |<img src="https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="100px"> <img src="https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="88px"> <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="107px"> <img src="https://img.shields.io/badge/-VueJs-1C1C1C?logo=vue.js&logoColor=48E691&style=plastic" width="92px">
+---------------|------------------------------------------------------------------------------------------------------------------
+ **Langages**  |<img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="130px"> <img src="https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=3776AB" width="103px"> <img src="https://img.shields.io/badge/-PHP-1C1C1C?style=plastic&logo=php&logoColor=9249FA" width="75px"> <img src="https://img.shields.io/badge/-C-1C1C1C?style=plastic&logo=C&logoColor=A19F9F" width="54px"> <img src="https://img.shields.io/badge/-C++-1C1C1C?style=plastic&logo=Cplusplus&logoColor=F967CC" width="82px">    
+ **Backend**   |<img src="https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1" width="95px"> <img src="https://img.shields.io/badge/-ProstgresSQL-1C1C1C?style=plastic&logo=postgresql&logoColor=4479A1" width="150px"> <img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="63px"> <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="78px">  <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="103px"> 
+
+
 </p>
 
 ### My journey so far:
