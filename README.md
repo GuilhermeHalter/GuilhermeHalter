@@ -26,7 +26,7 @@ I'm Guilherme Halter Nunes, a programming enthusiast passionate about transformi
 - 🎓Studying Software Engineering (University Center - Catholic University of Santa Catarina).
 
 ### Where can I find it:
-- 📧 [halter.guilhermenunes@gmail.com]
+- 📧 halter.guilhermenunes@gmail.com
 
 ### Highlighted projects:
 - Projeto_ControleTermicoSuinos: thermal comfort is extremely important for pigs in the nursery, as they are sensitive to temperature variations. [https://github.com/GuilhermeHalter/Projeto_ControleTermicoSuinos.git].
