@@ -1,4 +1,8 @@
-## Hello World! 👋
+<img title="a title" alt="Alt text" src="https://images.ctfassets.net/76se3n4ug7vf/3n2KH5ef8n9n0RS0JHA3jE/32a428a11712fd1b6b470522de8311ac/image_2023-11-23_022554509.png?fm=webp&w=650&h=325" heigth="100px" width="1000px">
+
+<hr/>
+
+# Hello World! 👋
 
 I'm Guilherme Halter Nunes, a programming enthusiast passionate about transforming lines of code into innovative solutions. I live in Joinville in the state of Santa Catarina located in Brazil.
 
@@ -8,17 +12,59 @@ I'm Guilherme Halter Nunes, a programming enthusiast passionate about transformi
 - 📈 Experience in HTML, CSS, Vue, js, React-native.
 
 <p align="left">
-<div align="center">
+<div align="left">
 
-
- **Property**  | **Data**
----------------|-------------------------------------------------------------------
-**Frontend**  |<img src="https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="100px"> <img src="https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="88px"> <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="107px"> <img src="https://img.shields.io/badge/-Vite-1C1C1C?logo=vite&logoColor=B97BE0&style=plastic" width="78px"> <img src="https://img.shields.io/badge/-VueJs-1C1C1C?logo=vue.js&logoColor=48E691&style=plastic" width="92px">
- **Langages**  |<img src="https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="130px"> <img src="https://img.shields.io/badge/-Python-1C1C1C?style=plastic&logo=python&logoColor=3776AB" width="103px"> <img src="https://img.shields.io/badge/-PHP-1C1C1C?style=plastic&logo=php&logoColor=9249FA" width="75px"> <img src="https://img.shields.io/badge/-C-1C1C1C?style=plastic&logo=C&logoColor=A19F9F" width="54px"> <img src="https://img.shields.io/badge/-C++-1C1C1C?style=plastic&logo=Cplusplus&logoColor=F967CC" width="82px">    
- **Backend**   |<img src="https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1" width="95px"> <img src="https://img.shields.io/badge/-ProstgresSQL-1C1C1C?style=plastic&logo=postgresql&logoColor=4479A1" width="150px"> <img src="https://img.shields.io/badge/-Django-1C1C1C?style=plastic&logo=django&logoColor=4479A1" width="95px"> <img src="https://img.shields.io/badge/-SqlServer-1C1C1C?style=plastic&logo=microsoftsqlserver&logoColor=4479A1" width="115px">
- **CI / CD**  |<img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="63px"> <img src="https://img.shields.io/badge/-github-1C1C1C?logo=github&style=plastic" width="90px"> <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="78px">  <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="103px">  <img src="https://img.shields.io/badge/-Bootstrap-1C1C1C?style=plastic&logo=Bootstrap&logoColor=9249FA" width="125px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vue logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45" alt="vitejs logo"  />
+  <img width="6" />
 
 </div>
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="vscode logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="6" />
+  
+</div>
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="microsoftsqlserver logo"  />
+  <img width="6" />
+  
+</div>
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="6" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+  <img width="6" />
+  
+</div>
+
+
+
 </p>
 
 ### My journey so far:
