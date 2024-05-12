@@ -55,7 +55,7 @@ I'm an 18-year-old programming enthusiast passionate about turning lines of code
 ### My journey so far:
 - 🎓 Graduated in IT Technician for Internet (IFC campus Araquari).
 - 🎓 Studying Software Engineering (University Center - Catholic University of Santa Catarina).
-- 💼 I worked for 3 months at SoftExpert Software.
+- 💼 I worked as a web developer for 3 months at SoftExpert Software.
 
 ### Where can I find it:
 📧 halter.guilhermenunes@gmail.com
