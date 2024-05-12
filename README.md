@@ -6,7 +6,7 @@
 
 I'm an 18-year-old programming enthusiast passionate about turning lines of code into innovative solutions. I live in Joinville, in the state of Santa Catarina.
 
-<img title="a title" alt="Alt text" src="https://images.ctfassets.net/76se3n4ug7vf/3n2KH5ef8n9n0RS0JHA3jE/32a428a11712fd1b6b470522de8311ac/image_2023-11-23_022554509.png?fm=webp&w=650&h=325" heigth="100px" width="800px">
+<img title="a title" alt="Alt text" src="https://images.ctfassets.net/76se3n4ug7vf/3n2KH5ef8n9n0RS0JHA3jE/32a428a11712fd1b6b470522de8311ac/image_2023-11-23_022554509.png?fm=webp&w=650&h=325" heigth="100px" width="770px">
 
 ### What do I do:
 💻 Full Stack development focusing on Html, Css, JavaScript, Python, C++, C, PHP, Vue.js, React-Native, React.js, Node.js, Git, Github, Mysql, PostgreSQL, SQL Server. <br/>
