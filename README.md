@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B654FE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B654FE&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+👋,+My+name+is+Guilherme+Halter+Nunes;I'm+18+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B654FE&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+👋,+My+name+is+Guilherme+Halter+Nunes)](https://git.io/typing-svg)
 
 <hr/>
 
-a programming enthusiast passionate about transforming lines of code into innovative solutions. I live in Joinville in the state of Santa Catarina located in Brazil.
+I'm an 18-year-old programming enthusiast passionate about turning lines of code into innovative solutions. I live in Joinville, in the state of Santa Catarina.
 
 <img title="a title" alt="Alt text" src="https://images.ctfassets.net/76se3n4ug7vf/3n2KH5ef8n9n0RS0JHA3jE/32a428a11712fd1b6b470522de8311ac/image_2023-11-23_022554509.png?fm=webp&w=650&h=325" heigth="100px" width="800px">
 
