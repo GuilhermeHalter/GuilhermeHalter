@@ -66,7 +66,7 @@ I'm an 18-year-old programming enthusiast passionate about turning lines of code
 - OldWorldMuseum: Project in React + Vite using a museum API.  [Link to repository](https://github.com/GuilhermeHalter/MuseuNovoMundo-react.git)
 
 ### GitHub Stats:
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeHalter&theme=tokyonight)   &nbsp;&nbsp;&nbsp;  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeHalter&theme=tokyonight&exclude=html,CSS,vue)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuilhermeHalter&theme=tokyonight)   &nbsp;&nbsp;&nbsp;  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeHalter&theme=tokyonight&exclude=html,CSS,vue,c++)
 
 Feel free to explore my repositories and feel free to get in touch to discuss interesting collaborations and innovative ideas. Let's build the future together! 🚀
 
