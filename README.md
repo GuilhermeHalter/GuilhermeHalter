@@ -33,7 +33,7 @@ I'm an 20-year-old programming enthusiast passionate about turning lines of code
   <img width="6" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="6" />
-   <img src="[https://tse3.mm.bing.net/th/id/OIP.GXjfJnt781o8EcXUTSKT6AHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3](https://iconape.com/wp-content/files/zx/371339/svg/371339.svg)" height="45" alt="progress logo"  />
+   <img src="https://iconape.com/wp-content/files/zx/371339/svg/371339.svg" height="45" alt="progress logo"  />
   <img width="6" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
